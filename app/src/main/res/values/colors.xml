@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="hintColor">#8B8B8B</color>
+    <color name="textColor">#000000</color>
+
+
+</resources>
